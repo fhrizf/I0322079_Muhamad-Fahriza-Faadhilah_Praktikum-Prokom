@@ -1,4 +1,3 @@
-# Exersice 1 Praktikum Prokom
 Nama = "Muhamad Fahriza Faadhilah"
 NIM = "I0322079"
 Asal = "Tasikmalaya"
